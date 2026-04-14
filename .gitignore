@@ -26,3 +26,4 @@ gradio_*
 .env*/
 __pycache__/
 .venv
+.idea
