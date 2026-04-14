@@ -25,3 +25,4 @@ gradio_*
 # Environment Files
 .env*/
 __pycache__/
+.venv
